@@ -61,3 +61,9 @@ Each set of release notes should follow the following format:
 - [Description for the third change made] (#[issue number])
 - ...
 ```
+
+---
+
+## Sprint Workflow ##
+
+[Sprint schedule + notes](https://docs.google.com/spreadsheets/d/1TxDwLoKg_d5ZH0hp9lGjxUjNa8m3EdysdS9LT3wKSIM/edit#gid=0)

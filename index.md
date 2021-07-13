@@ -9,4 +9,4 @@ Development documentation for Nomad
  - [Slack App](./pages/slack_app.md)
 
 ### Sprints ###
- - [PI1 Sprint 0: 7/12 - 7/19](./pages/sprints/pi1_s0.md)
+ - [PI1 Sprint 0: 7/12 - 7/19](./pages/pi1_s0.md)
