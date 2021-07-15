@@ -10,4 +10,3 @@ Previous sprint features to test on [staging.visitnomad.com](https://staging.vis
     - NOTE: this should be tested on our dev database (local environment) because [#437](https://github.com/staynomad/Nomad-Front/issues/437) is not yet merged
  - Search - loose matches should be working (ie. searching "sac" should return listings from "sacramento")
     - NOTE: this should be tested on our dev database (local environment) because [staging.visitnomad.com](https://staging.visitnomad.com) is not yet populated with seed data
- - Profile pic - if a user does not have an uploaded profile picture, a default profile picture should be displayed
