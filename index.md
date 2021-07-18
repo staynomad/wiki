@@ -2,6 +2,7 @@
 Development documentation for Nomad
 
 ### Pages ###
+ - [Onboarding](./pages/onboarding.md)
  - [Developer guide](./pages/developer_guide.md)
  - [Frontend](./pages/frontend.md)
  - [Backend](./pages/backend.md)
