@@ -44,7 +44,7 @@ The official Nomad calendar is located on [this Google Calendar](https://calenda
 
  All meetings are held on Zoom, and their links can be found in the descriptions of their Google Calendar events. Non-official work sessions and meetings are encouraged and can be held anywhere.
 
- ## Tooling ##
+ ## Tooling ##  
 These are the tools used internally by Nomad. Please contact aiden@visitnomad.com for access to any of the following tools:
   - Slack - everyone
   - GitHub - developers
