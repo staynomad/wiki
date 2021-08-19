@@ -3,6 +3,23 @@ Your guide to developing at Nomad!
 
 ---
 
+*This guide is a general overview to develop with Nomad. To view specifics about developing on the [frontend](./frontend.md) and [backend](./backend.md) repositories, visit their respective wiki pages.* 
+
+## Tech Stack
+
+The Nomad tech stack consists of the following tools and frameworks:
+
+### Frontend:
+* [React](https://reactjs.org/)
+
+### Backend: 
+* [Node.js](https://node.js.org/)
+* [MongoDB](https://www.mongodb.com/)
+* [Express](https://expressjs.com/)
+* [Mongoose](https://mongoosejs.com/) 
+
+All new code will be written in [TypeScript](https://www.typescriptlang.org/) and older code is written in [JavaScript](https://www.javascript.com/). Development and database management tools are typically written in [Python](https://www.python.org/) or [JavaScript](https://www.javascript.com/).
+
 ## Git Hygiene ##
 
 #### Issues ####
